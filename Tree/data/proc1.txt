@@ -1,0 +1,17 @@
+Laptop Nvidia RTX_2070_super 2019 599
+Laptop      Nvidia   RTX_2080           2018    539
+Laptop      Nvidia   GTX_1080_TI        2017    599
+Laptop      AMD      vega_56            2017    449
+Laptop      AMD      vega_64            2017    599
+Laptop      AMD      rx570              2017    399
+Laptop      Nvidia   GTX_770            2009     30
+Laptop      Nvidia   GTX_770            2008    230
+Laptop      Nvidia   GTX_770            2007    430 
+Desktop      Nvidia   GTX_770            2006    630 
+Desktop      Nvidia   GTX_770            2005    830 
+Desktop      Nvidia   GTX_770            2004   1030 
+Desktop      Nvidia   GTX_770            2003   1230 
+Desktop      Nvidia   GTX_770            2002   1430
+Desktop      Intel    i9-9900k           2019    599
+Desktop      Intel    i7-9700k           2008    499
+Desktop      AMD      ryzen_3600         2019    199 
